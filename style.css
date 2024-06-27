@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  font-size: 15px;
+  color: #fff;
+  border: 0;
+  outline: 0;
+}
+
+#white {
+  background-color: white;
+  color: black;
+}
+
+#orange {
+  background-color: orange;
+}
+#Blue {
+  background-color: blue;
+}
+#Brown {
+  background-color: brown;
+}
+#Aqua {
+  background-color: aqua;
+  color: black;
+}
+#purple {
+  background-color: purple;
+}
+#Red {
+  background-color: red;
+}
+#Green {
+  background-color: green;
+}
+
+#Yellow {
+  background-color: yellow;
+  color: black;
+}
